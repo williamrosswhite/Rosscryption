@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/encrypt.cpp
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/Rosscryption/encrypt.cpp
 encrypt.hpp
-/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/encrypt.hpp
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/Rosscryption/encrypt.hpp
 fstream
 -
 string.h
@@ -16,13 +16,13 @@ string.h
 stdio.h
 -
 
-/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/encrypt.hpp
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/Rosscryption/encrypt.hpp
 fstream
 -
 
-/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/main.cpp
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/Rosscryption/main.cpp
 iostream
 -
 encrypt.cpp
-/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/encrypt.cpp
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/Rosscryption/encrypt.cpp
 

@@ -7,8 +7,6 @@
 #include <string.h>
 #include <stdio.h>
 
-#define stringKey Q3hrhu8AF1TS0JuxsEmv
-
 using namespace std;
 
 /*
@@ -38,18 +36,19 @@ void encryptFile() {
     ifstream in("wubbalubbadubdub.txt");
 
     // checking if file already encrypted
-    while (!in.eof()) {
+    morty = "";
+    while (!in.eof() && (morty.length() < encodedKey.length())) {
         in.get(currentChar);
         morty += currentChar;
     }
 
     // breaking out if already encoded
-    if (!morty.compare(encodedKey)) {
+    if (morty.compare(encodedKey)== 0) {
         cout << "sorry, file already encrypted";
         return;
     }
     else {
-        pickleRick += encodedKey;
+        pickleRick = encodedKey;
         while (!in.eof()) {
             in.get(currentChar);
             currentChar += 8;

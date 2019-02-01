@@ -3,7 +3,7 @@
 
 int main() {
 
-    createFile();
+    //createFile();
     encryptFile();
 
     return 0;
