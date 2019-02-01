@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/encrypt.cpp
+encrypt.hpp
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/encrypt.hpp
+fstream
+-
+string.h
+-
+stdio.h
+-
+
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/encrypt.hpp
+fstream
+-
+
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/main.cpp
+iostream
+-
+encrypt.cpp
+/cygdrive/c/Users/rwhit/OneDrive/SideProjects/Rosscryption/encrypt.cpp
+
